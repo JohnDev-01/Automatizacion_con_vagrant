@@ -1,0 +1,1 @@
+{"rsync":{"/var/www/html":{"type":"rsync","guestpath":"/var/www/html","hostpath":"C:/Users/johnk/Documents/practica9-devops","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
